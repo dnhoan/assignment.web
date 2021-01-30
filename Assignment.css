@@ -1,0 +1,214 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.container{
+    margin: auto;
+    width: 1440px;
+    background: #E5E5E5;
+}
+.header{
+    position: relative;
+    width: 1440px;
+    height: 65px;
+    background: #303030;
+}
+.header>img{
+    margin-left: 135px;
+}
+.header-menu ul li {
+    position: absolute;
+    display: inline-block;
+    right:134px;
+    top: 20px;
+    text-align: center;
+}
+.header-menu ul li a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    line-height: 14px;
+    font-size: 12px;
+    padding: 0px 20px;
+}
+.menu{
+    position: relative;
+    height: 50px;
+}
+.menu ul li{
+    display: inline;
+    position: absolute;
+    background-color: #EE173A;
+    width: 1440px;
+    height: 50px;
+ 
+}
+.menu ul li a{
+    position: relative;
+    top: 15px;
+    left: 347px;
+    padding-left: 50px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-size: 16px;
+}
+.banner{  
+    position: relative;  
+    margin: auto;
+    width: 1170px;
+    height: 528px;
+}
+.content{
+    position: relative;;
+    margin: auto;
+    width: 1170px;
+    top: 32px;
+    padding: 0px;
+}
+.content-1{
+    position: relative;
+    margin: auto;
+    height: 456px;
+}
+.content-tittle{
+    text-align: center;
+    margin-top: 12px;
+    padding: 14px 0px;
+    font-family: Roboto;
+    font-size: 20px;
+    color: #2EAAC6;
+    border-bottom: #C4C4C4 1px solid;
+    width: 260px;
+    margin-left: 20px;
+}
+.hotdeals-name{
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14px;
+    color: #000000;
+}
+.hotdeal-price{
+    font-family: Roboto;
+    font-size: 14px;
+    color: #2EAAC6;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 20px;
+}
+.content-hotdeal-1{
+    position: relative;
+    width: 300px;
+    height: 456px;
+    background-color: #FFFFFF;
+    float: left;
+}
+.content-product{
+    position: relative;
+    float: left;
+    width: 840px;
+    height: 456px;
+    background-color: #FFFFFF;
+    left: 30px;
+}
+.product1{
+    float: left;
+    width: 33%;
+}
+.product2{
+    float: left;
+    width: 33%;
+
+}
+.product3{
+    float: left;
+    width: 33%;
+
+}
+.content-2{
+    position: relative;
+    top: 31px; 
+    width: 1170px;
+    height: 456px;
+}
+.content-hotdeal-2 {
+    position: relative;
+    float: left;
+    width: 300px;
+    height: 456px;
+    background-color: #FFFFFF;
+
+} 
+.content-2-banner{
+    position: relative;
+    float: left;
+    left: 30px;
+    height: 456px;
+}
+.banner-macbook{
+    position: relative;
+}
+.banner-iphone6{
+   position: relative;
+   top: 25px;
+
+}
+.content-3{
+    position: relative;
+    width: 1170px;
+    height: 317px;
+    top: 60px;
+    margin: auto;
+    background-color: #FFFFFF;
+}
+.content-3>img{
+    position: relative;
+    float: left;
+}
+.about-product{
+    position: relative;
+    float: left;
+}
+.footer{
+    position: relative;
+    height: 200px;
+    width: 1440px;
+    top: 120px;
+}
+.shape{
+    background-color: #EE173A;
+    width: 1440px;
+    height: 50px;
+}
+.footer-finish{
+    position: relative;
+    background-color: #303030;
+    width: 1440px;
+    height: 150px;
+}
+.footer-about ul li{
+    position: absolute;
+    display: inline;
+    top: 38px;
+    left: 435px;
+}
+.footer-about ul li a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: Roboto;
+    padding-left: 25px;
+}
+.footer-design ul li{
+    position: absolute;
+    display: inline;
+    top: 93px;
+    left: 540px;
+}
+.footer-design ul li a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: Roboto;
+}
